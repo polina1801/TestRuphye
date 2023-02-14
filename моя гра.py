@@ -5,6 +5,6 @@ run = True
 while run:
     time.delay(50)
     for e in event.get():
-        if e.type == QUIT:
-            run = False
+
         display.update()
+#dfjnvdfjndb
